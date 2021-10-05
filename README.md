@@ -1,2 +1,2 @@
 # kneed_visualizations
- Visualization for kneed article on TDS
+ Visualizations for kneed article on TDS
